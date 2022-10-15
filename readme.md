@@ -1,4 +1,10 @@
-THIS IS ASSET IS FREE 
-YOU CAN MODIFY AND SHARE ;)
+# Pomodoro Timer
 
->> dont forget to pray 
+
+
+# Files
+
+-> assets/script.css
+-> assets/style.css
+-> index.html 
+-> test.html
